@@ -14,3 +14,9 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=heyauri)](https://github.com/heyauri/github-readme-stats)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=heyauri&show_icons=true&theme=default&layout=compact&hide=html,css&hide_border=true)
+
+![Counter](https://profile-counter.glitch.me/heyauri/count.svg)
+
